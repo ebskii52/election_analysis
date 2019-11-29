@@ -31,5 +31,23 @@ The Analysis of election show that:
 
 ## Challenge Overview
 
+1. Calculate the total number of votes cast from each county 
+2. Percentage of votes each county contributed to the election.
+3. Determine which county had the largest turnout
+
 ## Challenge Sumary
+
+The Analysis of election show that: 
+- There were '369,711' votes cast in the election.
+- The Counties were:
+  - Jefferson
+  - Denver
+  - Arapahoe
+- The Counties results were:
+  - Jefferson county casted 10.51% of the votes and '38,855' number of votes
+  - Denver: 82.78% county casted  306,055' number of votes
+  - Arapahoe: 6.71% county casted 24,801' number of votes
+
+- The highest number of votes were cast from:
+  - Denver: 82.78% county casted  306,055' number of votes
 
